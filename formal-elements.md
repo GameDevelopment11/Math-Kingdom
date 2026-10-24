@@ -10,7 +10,7 @@ Platform: Desktop web browser, controlled using a mouse and keyboard.
 
 Concept screenshot: Add an original mockup showing the castle, a path with incoming monsters, defensive towers, a resource bar, and a mathematical question panel.
 
-<!-- Add screenshot here, for example: ![Math Kingdom concept](math-kingdom-concept.png) -->
+ ![Math Kingdom concept](math-kingdom-concept.png) 
 
 ────────
 
@@ -106,6 +106,8 @@ Search terms used: math strategy games for kids, math tower defense game, educat
 
 1. Prodigy Math
 
+ 
+
 Official link: https://www.prodigygame.com/main-en/prodigy-math
 
 Existing game: Prodigy Math combines a fantasy adventure, quests, battles, and adaptive math practice. Players answer math questions as part of combat and progression.
@@ -116,7 +118,7 @@ How Math Kingdom differs: Math Kingdom proposes a more focused tower-defense str
 
 Screenshot: Insert a genuine gameplay screenshot from the official Prodigy website and credit the source.
 
-<!-- Example: ![Prodigy Math gameplay](prodigy-math.png) -->
+ ![Prodigy Math gameplay](prodigy-math.png) 
 
 2. DragonBox Numbers
 
@@ -130,7 +132,7 @@ How Math Kingdom differs: Math Kingdom targets older students and combines multi
 
 Screenshot: Insert a genuine screenshot from the official DragonBox Numbers page and credit the source.
 
-<!-- Example: ![DragonBox Numbers gameplay](dragonbox-numbers.png) -->
+ ![DragonBox Numbers gameplay](dragonbox.png) 
 
 3. Math Blaster (historical comparison)
 
@@ -144,7 +146,7 @@ How Math Kingdom differs: Math Kingdom focuses on planning tower positions, mana
 
 Screenshot: Insert an authentic historical Math Blaster gameplay screenshot, with its source credited; do not use an AI-generated recreation as a real screenshot.
 
-<!-- Example: ![Math Blaster gameplay](math-blaster.png) -->
+ ![Math Blaster gameplay](math-blaster.png)
 
 Most Distinctive Formal Elements
 
