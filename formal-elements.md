@@ -8,9 +8,9 @@ Math Kingdom is a 2D educational strategy game in which the player protects a fa
 
 Platform: Desktop web browser, controlled using a mouse and keyboard.
 
-Concept screenshot: Add an original mockup showing the castle, a path with incoming monsters, defensive towers, a resource bar, and a mathematical question panel.
 
- ![Math Kingdom concept](math-kingdom-concept.png) 
+
+ ![Math Kingdom concept](math-kingdom.png) 
 
 ────────
 
@@ -116,9 +116,8 @@ Similarity: Both games connect mathematical problem-solving with fantasy battles
 
 How Math Kingdom differs: Math Kingdom proposes a more focused tower-defense structure: players choose where to place defenses and decide how to allocate gold and energy while enemies move toward a single castle. The intended appeal is to players who enjoy visible battlefield strategy and short, self-contained defense missions rather than a broader role-playing adventure.
 
-Screenshot: Insert a genuine gameplay screenshot from the official Prodigy website and credit the source.
 
- ![Prodigy Math gameplay](prodigy-math.png) 
+ ![Prodigy Math gameplay](prodigy.png) 
 
 2. DragonBox Numbers
 
@@ -130,7 +129,7 @@ Similarity: Both games aim to make mathematics interactive and approachable rath
 
 How Math Kingdom differs: Math Kingdom targets older students and combines multiplication, fractions, and equations with tactical resource management. Instead of directly manipulating number characters, mathematical success funds actions in a defense game.
 
-Screenshot: Insert a genuine screenshot from the official DragonBox Numbers page and credit the source.
+
 
  ![DragonBox Numbers gameplay](dragonbox.png) 
 
@@ -144,7 +143,6 @@ Similarity: Both games integrate mathematical exercises into a themed action-ori
 
 How Math Kingdom differs: Math Kingdom focuses on planning tower positions, managing a castle’s health, and choosing how to spend math-earned resources. The central challenge is a connected defense system rather than a sequence of arcade-style math activities.
 
-Screenshot: Insert an authentic historical Math Blaster gameplay screenshot, with its source credited; do not use an AI-generated recreation as a real screenshot.
 
  ![Math Blaster gameplay](math-blaster.png)
 
